@@ -1,5 +1,3 @@
-from os.path import basename
-
 import pytest
 
 import allure
